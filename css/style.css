@@ -3,5 +3,12 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+   
 
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    gap: 15px;
 }
