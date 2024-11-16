@@ -19,4 +19,11 @@
     background-color:#59b559;
 }
 
+.link-white {
+    color: white;
+}
 
+.menu-list li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
