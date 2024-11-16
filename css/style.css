@@ -3,12 +3,29 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-   
-
+}
+.hero-bg::before{
+    content: ;
+    position: absolute;
 }
 
 .icon{
     display: flex;
     align-items: center;
     gap: 15px;
+}
+.clints-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    background-image: url('../images/Clients-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.Clients-details{
+    height:120px ;
+}
+.our-clints{
+    align-items: center;
 }
